@@ -1,5 +1,4 @@
 package Mondai11;
-import Mondai11.Ennsyu;
 import java.util.Scanner;
 
 public class Area {

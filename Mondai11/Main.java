@@ -1,3 +1,4 @@
+package Mondai11;
 import java.util.Scanner;
 
 class Main{
